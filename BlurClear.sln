@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlurClear", "BlurClear.csproj", "{EC53C7FA-E40C-4565-A9C8-B3AE8A374093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC53C7FA-E40C-4565-A9C8-B3AE8A374093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC53C7FA-E40C-4565-A9C8-B3AE8A374093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC53C7FA-E40C-4565-A9C8-B3AE8A374093}.Debug|x64.ActiveCfg = Debug|x64
+		{EC53C7FA-E40C-4565-A9C8-B3AE8A374093}.Debug|x64.Build.0 = Debug|x64
+		{EC53C7FA-E40C-4565-A9C8-B3AE8A374093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC53C7FA-E40C-4565-A9C8-B3AE8A374093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC53C7FA-E40C-4565-A9C8-B3AE8A374093}.Release|x64.ActiveCfg = Release|x64
+		{EC53C7FA-E40C-4565-A9C8-B3AE8A374093}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D02B4FF-6DF0-436F-8545-A7C132BD4DB3}
+	EndGlobalSection
+EndGlobal
